@@ -8,8 +8,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: linear-gradient(to bottom right,
-            #f7cac9, #fad0c4, #e0ffb2, #b5e4ff);
+    background: linear-gradient(to bottom right, #f7cac9, #fad0c4, #e0ffb2, #b5e4ff);
 }
 
 h1 {
@@ -18,8 +17,7 @@ h1 {
     letter-spacing: 0.7rem;
     text-transform: uppercase;
     font-style: italic;
-    text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.5),
-        -1px -1px 1px rgba(0, 0, 0, 0.8);
+    text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.5), -1px -1px 1px rgba(0, 0, 0, 0.8);
     border: 1px solid rgba(255, 255, 255, 0.507);
     padding: 5px;
 }

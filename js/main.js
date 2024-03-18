@@ -42,7 +42,6 @@ function saludar() {
             nombreIngresado = prompt("El nombre " + nombreIngresado + " es demasiado corto. Por favor, ingrese su nombre completo nuevamente:");
         }
     }
-
     // Mostramos mensaje de bienvenida con el nombre ingresado
     alert("Bienvenido/a " + nombreIngresado + " a ¡Tasty Vape Liquids!");
 }
@@ -93,7 +92,6 @@ function elegirSabor(opcion) {
             console.log("Opción inválida");
             break;
     }
-
     return saborElegido;
 }
 
